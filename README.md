@@ -4,6 +4,8 @@ An AI powered chatbot that shares the good news in 5 steps.
 Website:<br>
 https://gospelbot.com/
 
+<br>
+
 ## Features
 - Follows the Evangelism Explosion (EE) gospel presentation format.
 - Powered by Qwen3.5-Flash via OpenRouter.
