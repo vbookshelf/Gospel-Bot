@@ -17,3 +17,13 @@ https://gospelbot.com/
 ## Notes
 - The chatbot's voice quality on mobile is much better than voice quality on desktop.
 - Auto speak can be turned off in the settings menu.
+
+<br>
+
+## Revision History
+
+Version 1.0<br>
+19-Sept-2026
+Prototype. Released for testing.
+
+<br>
