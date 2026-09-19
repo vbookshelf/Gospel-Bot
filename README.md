@@ -6,6 +6,11 @@ https://gospelbot.com/
 
 <br>
 
+<img src="images/image1.png" alt="App screenshot" height="500">
+<p>Minimalist UI</p>
+
+<br>
+
 ## Quick Info
 - Follows the Evangelism Explosion (EE) gospel presentation format.
 - Powered by Qwen3.5-Flash via OpenRouter.
