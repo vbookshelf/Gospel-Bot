@@ -7,7 +7,10 @@ https://gospelbot.com/
 <br>
 
 <img src="images/image1.png" alt="App screenshot" height="500">
-<p>Minimalist UI</p>
+
+<br>
+
+<img src="images/image2.png" alt="App screenshot" height="500">
 
 <br>
 
