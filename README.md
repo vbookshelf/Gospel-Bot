@@ -16,10 +16,23 @@ https://gospelbot.com/
 
 ## Quick Info
 - Follows the Evangelism Explosion (EE) gospel presentation format.
-- Powered by Qwen3.5-Flash via OpenRouter.
+- Minimalist UI design with light and dark modes
+- Frontend: Html, CSS, Javascript
+- Backend: PHP
+- Uses the OpenRouter API (qwen3.5-flash-02-23 by Alibaba)
 - Supports voice in and voice out.
-- Free and open source.
-- Easy to rebrand and self host.
+- Uses Javascript SpeechRecognition to convert the user's speech into text
+- Uses Javascript SpeechSynthesis to convert text to speech
+- Has visual audio cues for deaf users
+- Can be rebranded and self-hosted on any shared hosting platform
+
+<br> 
+
+## Deployment Notes
+
+- Add your OpenRouter API key to the ebot_config.ini.txt file before uploading to your web host server.
+- Change the name of the file to ebot_config.ini
+- For added security it's best to locate the ebot_config.ini file outside the web host root folder. This will protect your API key from being stolen.
 
 
 <br>
