@@ -1,5 +1,5 @@
 # Gospel Bot
-An AI powered chatbot that shares the good news in 5 steps and leads people to salvation.
+An AI powered chatbot that respectfully shares the good news in 5 steps and leads people to salvation.
 
 Website:<br>
 https://gospelbot.com/
