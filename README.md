@@ -15,7 +15,7 @@ https://gospelbot.com/
 <br>
 
 ## Quick Info
-- Follows the Evangelism Explosion (EE) gospel presentation format.
+- Follows the Evangelism Explosion (EE) gospel presentation format thats been proven over 50 years of real world use.
 - Mobile optimized minimalist UI design with light and dark modes
 - Frontend: Html, CSS, Javascript
 - Backend: PHP
