@@ -30,8 +30,8 @@ https://gospelbot.com/
 
 ## Deployment Notes
 
-- Add your OpenRouter API key to the ebot_config.ini.txt file before uploading to your web host server.
-- Change the name of the file to ebot_config.ini
+- Add your OpenRouter API key to the ebot_config.ini.txt file. 
+- Then change the name of the file from ebot_config.ini.txt to ebot_config.ini before uploading to your web host server.
 - For added security it's best to locate the ebot_config.ini file outside the web host root folder. This will protect your API key from being stolen.
 
 
