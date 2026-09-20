@@ -16,6 +16,7 @@ https://gospelbot.com/
 
 ## Quick Info
 - Follows the Evangelism Explosion (EE) gospel presentation format thats been proven over 50 years of real world use.
+- Gospel Bot is presentation oriented, not open conversation oriented.
 - Mobile optimized minimalist UI design with light and dark modes
 - Frontend: Html, CSS, Javascript
 - Backend: PHP
