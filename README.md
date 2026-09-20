@@ -18,6 +18,7 @@ https://gospelbot.com/
 - Follows the Evangelism Explosion (EE) gospel presentation format.
 - Powered by Qwen3.5-Flash via OpenRouter.
 - Supports voice in and voice out.
+- Free and open source.
 - Easy to rebrand and self host.
 
 
