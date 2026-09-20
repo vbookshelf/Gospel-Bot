@@ -240,6 +240,8 @@
 		</li>
 	    <li>The Good News of Jesus Christ in 5 Simple Steps<br><a href="https://fivejc.com/" target="_blank" rel="noopener">FiveJC.com</a>
 		</li>
+		<li>How to share the gospel in one minute<br><a href="https://github.com/vbookshelf/One-Minute-Gospel" target="_blank" rel="noopener">One-Minute-Gospel</a>
+		</li>
 	    
 	  </ul>
 	</div>
