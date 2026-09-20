@@ -16,7 +16,7 @@ https://gospelbot.com/
 
 ## Quick Info
 - Follows the Evangelism Explosion (EE) gospel presentation format.
-- Minimalist UI design with light and dark modes
+- Mobile optimized minimalist UI design with light and dark modes
 - Frontend: Html, CSS, Javascript
 - Backend: PHP
 - Uses the OpenRouter API (qwen3.5-flash-02-23 by Alibaba)
