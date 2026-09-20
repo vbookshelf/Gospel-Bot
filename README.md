@@ -25,6 +25,7 @@ https://gospelbot.com/
 - Uses Javascript SpeechSynthesis to convert text to speech
 - Has visual audio cues for deaf users
 - Can be rebranded and self-hosted on any shared web hosting platform
+- Respects user privacy. No analytics or tracking is built into the design.
 
 <br> 
 
