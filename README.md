@@ -1,5 +1,5 @@
 # Gospel Bot
-An AI powered chatbot that shares the good news in 5 steps.
+An AI powered chatbot that shares the good news in 5 steps and leads user's to salvation.
 
 Website:<br>
 https://gospelbot.com/
@@ -24,7 +24,7 @@ https://gospelbot.com/
 - Uses Javascript SpeechRecognition to convert the user's speech into text
 - Uses Javascript SpeechSynthesis to convert text to speech
 - Has visual audio cues for deaf users
-- Can be rebranded and self-hosted on any shared hosting platform
+- Can be rebranded and self-hosted on any shared web hosting platform
 
 <br> 
 
