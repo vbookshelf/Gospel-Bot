@@ -51,7 +51,7 @@ https://gospelbot.com/
 
 Version 1.1<br>
 12-October-2026<br>
-- Made "Google UK English Female" the default voice.
+- Made "Google UK English Female" the default voice. The voice is high quality, clear and calm.
 
 Version 1.0<br>
 20-Sept-2026<br>
