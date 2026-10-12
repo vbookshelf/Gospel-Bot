@@ -43,10 +43,15 @@ https://gospelbot.com/
 - The chatbot's voice quality on mobile is much better than voice quality on desktop.
 - Auto speak can be turned off in the settings menu.
 - The Qwen model supports more than 70 languages. Gospel Bot can be easily modified to chat in a different language.
+- The latest version of the Chrome desktop browser includes built in high quality TTS voices e.g. Google US English. Therefore, Google Chrome will provide the best user experience. Previously high quality built in voice was only available on Android.
 
 <br>
 
 ## Revision History
+
+Version 1.1<br>
+12-October-2026<br>
+- Made "Google UK English Female" the default voice.
 
 Version 1.0<br>
 20-Sept-2026<br>
